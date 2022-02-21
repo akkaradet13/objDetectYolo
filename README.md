@@ -1,4 +1,5 @@
 # objDetectYolo
+```
 !!!!อ่านก่อน!!!!
 1.pip install virtualenv
 สร้าง environment
@@ -11,6 +12,8 @@
 5.get clone https://github.com/akkaradet13/objDetectYolo.git
 6.cd objDetectYolo
 7.pip install req.txt
+8.โหลดไฟล์ https://pjreddie.com/media/files/yolov3.weights
 10.python objDetect.py
 
 ref: https://pjreddie.com/darknet/yolo/
+```
