@@ -13,7 +13,7 @@
 6.cd objDetectYolo
 7.pip install req.txt
 8.โหลดไฟล์ https://pjreddie.com/media/files/yolov3.weights
-10.python objDetect.py
+9.RUN python objDetect.py
 
 ref: https://pjreddie.com/darknet/yolo/
 ```
